@@ -1,1 +1,1 @@
-![Alt text](/screenshot.png?raw=true "Preview")
+![Alt text](/PurpleHaze/screenshot.png?raw=true "Preview")
